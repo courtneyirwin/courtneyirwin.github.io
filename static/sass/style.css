@@ -3,7 +3,11 @@ body {
 
 
 
-  h2{
-    color: #18223d;
-  }
+h2{
+  color: #18223d;
+}
+
+p{
+  background-color: black;
+}
 /*# sourceMappingURL=style.css.map */
